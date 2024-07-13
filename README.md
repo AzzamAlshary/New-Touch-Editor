@@ -8,3 +8,8 @@ npm install
 npm run dev
 ```
 ```
+# json-server package
+to simulate posting data to server
+downloaded to work properly
+#💗 thank for
+ MR Azaam  
