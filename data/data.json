@@ -1,0 +1,19 @@
+{
+  "codes": [
+    {
+      "id": "0d2f",
+      "language": "csharp",
+      "contant": "using System;\n\nnamespace HelloNewTouch\n{\n\tclass Hello { \n\t\tstatic void Main(string[] args) {\n\t\t\tConsole.WriteLine(\"Hello new-touch\");\n\t\t\tConsole.WriteLine(\"Hello new-touch\");\n\t\t}\n\t}\n}\n"
+    },
+    {
+      "id": "6b74",
+      "language": "javascript",
+      "contant": "\nfunction greet(name) {\n\tconsole.log(\"Hello, \" + name + \"!\");\n}\n\ngreet(\"new-touch\");\n"
+    },
+    {
+      "id": "5b9e",
+      "language": "javascript",
+      "contant": "\nfunction greet(name) {\n\tconsole.log(\"Hello, \" + name + \"!\");\n}\n\ngreet(\"new-touch\");\n"
+    }
+  ]
+}
